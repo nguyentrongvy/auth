@@ -1,0 +1,6 @@
+node_modules
+# .env.dev
+# .env.prod
+# .env
+/temp
+.vscode
